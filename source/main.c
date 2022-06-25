@@ -18,4 +18,3 @@ int _main(void) {
   printf_notification("This is all, Bye!");
   return 0;
   }
-
