@@ -1,4 +1,4 @@
-LIBPS4	:= $(PS4SDK)/home/gamerhack/Escritorio/SDK/libPS4
+LIBPS4	:= $(PS4SDK)/libPS4
 
 CC	:= gcc
 OBJCOPY	:= objcopy
