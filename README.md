@@ -9,6 +9,7 @@ int _main(void) {
   // Init and resolve libraries
   initKernel();
   initLibc();
+  jailbreak();
 
   // Pop-up notifications to show
   printf_notification("PS4 Show Notifi by GamerHack");
