@@ -7,7 +7,7 @@ int _main(void) {
   jailbreak();
 
   // Pop-up notifications to show
-  printf_notification("PS4 Show Notifi by GamerHack");
+  printf_notification("PS4 Show Notify by GamerHack");
   
   sceKernelSleep(1); 
   printf_notification("This is an Example");
