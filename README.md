@@ -1,7 +1,7 @@
 # PS4-Show-Notify
 A simple payload to display pop-up notifications.
 
-Change the notifications I leave in the examples to the ones you decide before building, it is also possible to delay the timing of a notification by editing the function `sceKernelSleep(X);` placing a number instead of `(X)` that will delimit the delay in milliseconds as specified.
+Just change the notifications that I leave in the examples for the ones you decide before building and enjoy.
 ```c
 #include "ps4.h"
 
